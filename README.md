@@ -1,4 +1,5 @@
 ﻿<h1 align="center">
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -77,3 +78,22 @@ Copyright 2018-2019 Clause, Inc. All trademarks are the property of their respec
 
 [apache]: https://github.com/accordproject/template-studio-v2/blob/master/LICENSE
 [creativecommons]: http://creativecommons.org/licenses/by/4.0/
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/kharaone"><img src="https://avatars1.githubusercontent.com/u/6599271?v=4" width="100px;" alt="kharaone"/><br /><sub><b>kharaone</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=kharaone" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
