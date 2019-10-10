@@ -72,6 +72,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "contractpendev",
+      "name": "ContractPen",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/41356995?v=4",
+      "profile": "https://contractpen.com/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
