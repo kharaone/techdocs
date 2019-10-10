@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -117,6 +117,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://deuexsolutions.com"><img src="https://avatars1.githubusercontent.com/u/6761317?v=4" width="100px;" alt="Sanket Shah"/><br /><sub><b>Sanket Shah</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=shahsank3t" title="Code">💻</a></td>
     <td align="center"><a href="https://steffinstanly.github.io/"><img src="https://avatars0.githubusercontent.com/u/32876873?v=4" width="100px;" alt="Steffin Stanly"/><br /><sub><b>Steffin Stanly</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=steffinstanly" title="Code">💻</a></td>
+    <td align="center"><a href="https://sumitkharche.hashnode.dev/"><img src="https://avatars3.githubusercontent.com/u/43902034?v=4" width="100px;" alt="Sumit Kharche"/><br /><sub><b>Sumit Kharche</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=sumitkharche" title="Code">💻</a></td>
   </tr>
 </table>
 
