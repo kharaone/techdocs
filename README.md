@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -95,6 +95,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Alexandria"><img src="https://avatars1.githubusercontent.com/u/7613670?v=4" width="100px;" alt="It's Lex "/><br /><sub><b>It's Lex </b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Alexandria" title="Code">💻</a></td>
     <td align="center"><a href="https://medium.com/@anishaswain"><img src="https://avatars3.githubusercontent.com/u/16955978?v=4" width="100px;" alt="ANISHA SWAIN"/><br /><sub><b>ANISHA SWAIN</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Anisha1234" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Bharat123rox"><img src="https://avatars3.githubusercontent.com/u/13381361?v=4" width="100px;" alt="Bharat Raghunathan"/><br /><sub><b>Bharat Raghunathan</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Bharat123rox" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/BjornvdLaan"><img src="https://avatars2.githubusercontent.com/u/2276027?v=4" width="100px;" alt="BjornvdLaan"/><br /><sub><b>BjornvdLaan</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=BjornvdLaan" title="Code">💻</a></td>
   </tr>
 </table>
 
