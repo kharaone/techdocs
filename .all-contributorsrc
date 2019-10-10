@@ -261,6 +261,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "ScottMorris",
+      "name": "Scott Morris",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/404967?v=4",
+      "profile": "http://scottibmorris.ca",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7

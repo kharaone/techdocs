@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -122,6 +122,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Parikshit-Hooda"><img src="https://avatars1.githubusercontent.com/u/25405707?v=4" width="100px;" alt="Parikshit Hooda"/><br /><sub><b>Parikshit Hooda</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Parikshit-Hooda" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/RNiordson"><img src="https://avatars3.githubusercontent.com/u/26896589?v=4" width="100px;" alt="RNiordson"/><br /><sub><b>RNiordson</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=RNiordson" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/RanadeepPolavarapu"><img src="https://avatars1.githubusercontent.com/u/7084995?v=4" width="100px;" alt="RanadeepPolavarapu"/><br /><sub><b>RanadeepPolavarapu</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=RanadeepPolavarapu" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://scottibmorris.ca"><img src="https://avatars1.githubusercontent.com/u/404967?v=4" width="100px;" alt="Scott Morris"/><br /><sub><b>Scott Morris</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=ScottMorris" title="Code">💻</a></td>
   </tr>
 </table>
 
