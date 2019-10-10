@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -98,6 +98,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://contractpen.com/"><img src="https://avatars3.githubusercontent.com/u/41356995?v=4" width="100px;" alt="ContractPen"/><br /><sub><b>ContractPen</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=contractpendev" title="Code">💻</a></td>
+    <td align="center"><a href="https://twitter.com/daniloff200"><img src="https://avatars1.githubusercontent.com/u/13692220?v=4" width="100px;" alt="Dmitriy Danilov"/><br /><sub><b>Dmitriy Danilov</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=daniloff200" title="Code">💻</a></td>
   </tr>
 </table>
 
