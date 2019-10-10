@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -110,6 +110,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Frozenaught"><img src="https://avatars3.githubusercontent.com/u/34192458?v=4" width="100px;" alt="Nico Britz"/><br /><sub><b>Nico Britz</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Frozenaught" title="Code">💻</a></td>
     <td align="center"><a href="https://www.linkedin.com/in/jaketurner25/"><img src="https://avatars1.githubusercontent.com/u/10009752?v=4" width="100px;" alt="Jake"/><br /><sub><b>Jake</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Jakeeyturner" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/JamesBlandford"><img src="https://avatars1.githubusercontent.com/u/9812458?v=4" width="100px;" alt="James Blandford"/><br /><sub><b>James Blandford</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=JamesBlandford" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Josh-Payne"><img src="https://avatars0.githubusercontent.com/u/25165841?v=4" width="100px;" alt="Joshua Payne"/><br /><sub><b>Joshua Payne</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Josh-Payne" title="Code">💻</a></td>
   </tr>
 </table>
 
