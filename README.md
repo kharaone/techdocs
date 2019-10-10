@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -93,6 +93,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Alexandria"><img src="https://avatars1.githubusercontent.com/u/7613670?v=4" width="100px;" alt="It's Lex "/><br /><sub><b>It's Lex </b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Alexandria" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/DEBSUBHRO"><img src="https://avatars0.githubusercontent.com/u/42496309?v=4" width="100px;" alt="DEBSUBHRA ROY"/><br /><sub><b>DEBSUBHRA ROY</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=DEBSUBHRO" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/FelixKuehl"><img src="https://avatars1.githubusercontent.com/u/13168478?v=4" width="100px;" alt="Felix Kühl"/><br /><sub><b>Felix Kühl</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=FelixKuehl" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Frozenaught"><img src="https://avatars3.githubusercontent.com/u/34192458?v=4" width="100px;" alt="Nico Britz"/><br /><sub><b>Nico Britz</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Frozenaught" title="Code">💻</a></td>
   </tr>
 </table>
 
