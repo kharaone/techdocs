@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -109,6 +109,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://lex111.ru/"><img src="https://avatars2.githubusercontent.com/u/4408379?v=4" width="100px;" alt="Alexey Pyltsyn"/><br /><sub><b>Alexey Pyltsyn</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=lex111" title="Code">💻</a></td>
     <td align="center"><a href="http://clause.io"><img src="https://avatars1.githubusercontent.com/u/7544022?v=4" width="100px;" alt="Matt Roberts"/><br /><sub><b>Matt Roberts</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=mttrbrts" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/nithilan4"><img src="https://avatars0.githubusercontent.com/u/43860191?v=4" width="100px;" alt="Nithilan Kalidoss"/><br /><sub><b>Nithilan Kalidoss</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=nithilan4" title="Code">💻</a></td>
+    <td align="center"><a href="http://oorjitchowdhary.ml"><img src="https://avatars2.githubusercontent.com/u/39333058?v=4" width="100px;" alt="Oorjit Chowdhary"/><br /><sub><b>Oorjit Chowdhary</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=oorjitchowdhary" title="Code">💻</a></td>
   </tr>
 </table>
 
