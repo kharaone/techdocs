@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-26-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-27-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -120,6 +120,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://lnkd.in/bGb_EcS"><img src="https://avatars3.githubusercontent.com/u/5305654?v=4" width="100px;" alt="Niladri Dutta"/><br /><sub><b>Niladri Dutta</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Niladri24dutta" title="Code">💻</a></td>
     <td align="center"><a href="http://www.ibm.com"><img src="https://avatars1.githubusercontent.com/u/8831317?v=4" width="100px;" alt="Anthony O'Dowd"/><br /><sub><b>Anthony O'Dowd</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=ODOWDAIBM" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Parikshit-Hooda"><img src="https://avatars1.githubusercontent.com/u/25405707?v=4" width="100px;" alt="Parikshit Hooda"/><br /><sub><b>Parikshit Hooda</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Parikshit-Hooda" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/RNiordson"><img src="https://avatars3.githubusercontent.com/u/26896589?v=4" width="100px;" alt="RNiordson"/><br /><sub><b>RNiordson</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=RNiordson" title="Code">💻</a></td>
   </tr>
 </table>
 
