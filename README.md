@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -91,6 +91,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/4dd3r"><img src="https://avatars1.githubusercontent.com/u/1309899?v=4" width="100px;" alt="4dd3r"/><br /><sub><b>4dd3r</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=4dd3r" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/4katie"><img src="https://avatars2.githubusercontent.com/u/45664641?v=4" width="100px;" alt="4katie"/><br /><sub><b>4katie</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=4katie" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Alexandria"><img src="https://avatars1.githubusercontent.com/u/7613670?v=4" width="100px;" alt="It's Lex "/><br /><sub><b>It's Lex </b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Alexandria" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/DEBSUBHRO"><img src="https://avatars0.githubusercontent.com/u/42496309?v=4" width="100px;" alt="DEBSUBHRA ROY"/><br /><sub><b>DEBSUBHRA ROY</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=DEBSUBHRO" title="Code">💻</a></td>
   </tr>
 </table>
 
