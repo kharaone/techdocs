@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -112,6 +112,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://oorjitchowdhary.ml"><img src="https://avatars2.githubusercontent.com/u/39333058?v=4" width="100px;" alt="Oorjit Chowdhary"/><br /><sub><b>Oorjit Chowdhary</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=oorjitchowdhary" title="Code">💻</a></td>
     <td align="center"><a href="http://www.clause.io"><img src="https://avatars1.githubusercontent.com/u/9304034?v=4" width="100px;" alt="Peter Hunn"/><br /><sub><b>Peter Hunn</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=peterhunn" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/pranjalv9"><img src="https://avatars1.githubusercontent.com/u/55620250?v=4" width="100px;" alt="Pranjal Vyas"/><br /><sub><b>Pranjal Vyas</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=pranjalv9" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/ryanctlin"><img src="https://avatars2.githubusercontent.com/u/32078126?v=4" width="100px;" alt="Ryan (Chiungting) Lin"/><br /><sub><b>Ryan (Chiungting) Lin</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=ryanctlin" title="Code">💻</a></td>
   </tr>
 </table>
 
