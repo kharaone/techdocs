@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-36-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -131,6 +131,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/acshea"><img src="https://avatars0.githubusercontent.com/u/14294276?v=4" width="100px;" alt="Ashley Shea"/><br /><sub><b>Ashley Shea</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=acshea" title="Code">💻</a></td>
     <td align="center"><a href="http://aiet.cn"><img src="https://avatars1.githubusercontent.com/u/2031637?v=4" width="100px;" alt="aietcn"/><br /><sub><b>aietcn</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=aietcn" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/ajmeraharsh"><img src="https://avatars0.githubusercontent.com/u/15085186?v=4" width="100px;" alt="ajmeraharsh"/><br /><sub><b>ajmeraharsh</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=ajmeraharsh" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/akaila"><img src="https://avatars2.githubusercontent.com/u/484181?v=4" width="100px;" alt="Ashish Kaila"/><br /><sub><b>Ashish Kaila</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=akaila" title="Code">💻</a></td>
   </tr>
 </table>
 
