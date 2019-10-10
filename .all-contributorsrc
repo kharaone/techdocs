@@ -144,6 +144,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "mttrbrts",
+      "name": "Matt Roberts",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/7544022?v=4",
+      "profile": "http://clause.io",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
