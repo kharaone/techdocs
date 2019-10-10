@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -100,6 +100,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/BjornvdLaan"><img src="https://avatars2.githubusercontent.com/u/2276027?v=4" width="100px;" alt="BjornvdLaan"/><br /><sub><b>BjornvdLaan</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=BjornvdLaan" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/DEBSUBHRO"><img src="https://avatars0.githubusercontent.com/u/42496309?v=4" width="100px;" alt="DEBSUBHRA ROY"/><br /><sub><b>DEBSUBHRA ROY</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=DEBSUBHRO" title="Code">💻</a></td>
     <td align="center"><a href="https://medium.com/@dianalease"><img src="https://avatars0.githubusercontent.com/u/20543103?v=4" width="100px;" alt="Diana Lease"/><br /><sub><b>Diana Lease</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=DianaLease" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/EdMoffatt"><img src="https://avatars2.githubusercontent.com/u/7454304?v=4" width="100px;" alt="EdMoffatt"/><br /><sub><b>EdMoffatt</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=EdMoffatt" title="Code">💻</a></td>
   </tr>
 </table>
 
