@@ -135,6 +135,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "lex111",
+      "name": "Alexey Pyltsyn",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/4408379?v=4",
+      "profile": "https://lex111.ru/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7

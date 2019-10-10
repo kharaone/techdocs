@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -104,6 +104,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/javiercanossini"><img src="https://avatars3.githubusercontent.com/u/41113584?v=4" width="100px;" alt="Javier Canossini"/><br /><sub><b>Javier Canossini</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=javiercanossini" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jbesq777"><img src="https://avatars0.githubusercontent.com/u/3835594?v=4" width="100px;" alt="Joseph J Bambara"/><br /><sub><b>Joseph J Bambara</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=jbesq777" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/jeromesimeon"><img src="https://avatars0.githubusercontent.com/u/670099?v=4" width="100px;" alt="Jerome Simeon"/><br /><sub><b>Jerome Simeon</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=jeromesimeon" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://lex111.ru/"><img src="https://avatars2.githubusercontent.com/u/4408379?v=4" width="100px;" alt="Alexey Pyltsyn"/><br /><sub><b>Alexey Pyltsyn</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=lex111" title="Code">💻</a></td>
   </tr>
 </table>
 
