@@ -306,6 +306,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "aietcn",
+      "name": "aietcn",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2031637?v=4",
+      "profile": "http://aiet.cn",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
