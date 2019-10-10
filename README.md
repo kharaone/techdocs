@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -143,6 +143,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/awjh-ibm"><img src="https://avatars2.githubusercontent.com/u/31732124?v=4" width="100px;" alt="Andrew Hurt"/><br /><sub><b>Andrew Hurt</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=awjh-ibm" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/bestbeforetoday"><img src="https://avatars3.githubusercontent.com/u/4856862?v=4" width="100px;" alt="Mark S. Lewis"/><br /><sub><b>Mark S. Lewis</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=bestbeforetoday" title="Code">💻</a></td>
   </tr>
 </table>
 
