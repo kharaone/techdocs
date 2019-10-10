@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -89,6 +89,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/kharaone"><img src="https://avatars1.githubusercontent.com/u/6599271?v=4" width="100px;" alt="kharaone"/><br /><sub><b>kharaone</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=kharaone" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/4dd3r"><img src="https://avatars1.githubusercontent.com/u/1309899?v=4" width="100px;" alt="4dd3r"/><br /><sub><b>4dd3r</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=4dd3r" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/4katie"><img src="https://avatars2.githubusercontent.com/u/45664641?v=4" width="100px;" alt="4katie"/><br /><sub><b>4katie</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=4katie" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/AlexWil"><img src="https://avatars2.githubusercontent.com/u/9357932?v=4" width="100px;" alt="Alexander Wilts"/><br /><sub><b>Alexander Wilts</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=AlexWil" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Alexandria"><img src="https://avatars1.githubusercontent.com/u/7613670?v=4" width="100px;" alt="It's Lex "/><br /><sub><b>It's Lex </b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Alexandria" title="Code">💻</a></td>
+    <td align="center"><a href="https://medium.com/@anishaswain"><img src="https://avatars3.githubusercontent.com/u/16955978?v=4" width="100px;" alt="ANISHA SWAIN"/><br /><sub><b>ANISHA SWAIN</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Anisha1234" title="Code">💻</a></td>
   </tr>
 </table>
 
