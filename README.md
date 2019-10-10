@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -117,6 +117,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://michaelgroverdesign.com"><img src="https://avatars0.githubusercontent.com/u/40569793?v=4" width="100px;" alt="Michael-Grover"/><br /><sub><b>Michael-Grover</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Michael-Grover" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Navdevl"><img src="https://avatars1.githubusercontent.com/u/10878354?v=4" width="100px;" alt="Naveen Honest Raj"/><br /><sub><b>Naveen Honest Raj</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Navdevl" title="Code">💻</a></td>
+    <td align="center"><a href="http://lnkd.in/bGb_EcS"><img src="https://avatars3.githubusercontent.com/u/5305654?v=4" width="100px;" alt="Niladri Dutta"/><br /><sub><b>Niladri Dutta</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Niladri24dutta" title="Code">💻</a></td>
   </tr>
 </table>
 
