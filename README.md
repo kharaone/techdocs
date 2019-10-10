@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -113,6 +113,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Josh-Payne"><img src="https://avatars0.githubusercontent.com/u/25165841?v=4" width="100px;" alt="Joshua Payne"/><br /><sub><b>Joshua Payne</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Josh-Payne" title="Code">💻</a></td>
     <td align="center"><a href="http://iamnabil.me"><img src="https://avatars3.githubusercontent.com/u/20807178?v=4" width="100px;" alt="Nabil Tharwat"/><br /><sub><b>Nabil Tharwat</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=KL13NT" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/KaiUsher"><img src="https://avatars1.githubusercontent.com/u/16639383?v=4" width="100px;" alt="Kai Usher"/><br /><sub><b>Kai Usher</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=KaiUsher" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://michaelgroverdesign.com"><img src="https://avatars0.githubusercontent.com/u/40569793?v=4" width="100px;" alt="Michael-Grover"/><br /><sub><b>Michael-Grover</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=Michael-Grover" title="Code">💻</a></td>
   </tr>
 </table>
 
