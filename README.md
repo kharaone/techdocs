@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -100,6 +100,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://contractpen.com/"><img src="https://avatars3.githubusercontent.com/u/41356995?v=4" width="100px;" alt="ContractPen"/><br /><sub><b>ContractPen</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=contractpendev" title="Code">💻</a></td>
     <td align="center"><a href="https://twitter.com/daniloff200"><img src="https://avatars1.githubusercontent.com/u/13692220?v=4" width="100px;" alt="Dmitriy Danilov"/><br /><sub><b>Dmitriy Danilov</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=daniloff200" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/dselman"><img src="https://avatars0.githubusercontent.com/u/623108?v=4" width="100px;" alt="Dan Selman"/><br /><sub><b>Dan Selman</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=dselman" title="Code">💻</a></td>
+    <td align="center"><a href="http://jolenelanglinais.com"><img src="https://avatars3.githubusercontent.com/u/36460856?v=4" width="100px;" alt="Jolene Langlinais"/><br /><sub><b>Jolene Langlinais</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=irmerk" title="Code">💻</a></td>
   </tr>
 </table>
 
