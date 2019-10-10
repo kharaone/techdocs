@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-42-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-43-orange.svg?style=flat-square)](#contributors-)
   <a href="https://www.accordproject.org/">
     <img src="assets/APLogo.png" alt="Accord Project Logo" width="400" />
   </a>
@@ -140,6 +140,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://t.me/artyomchen"><img src="https://avatars1.githubusercontent.com/u/26677794?v=4" width="100px;" alt="Artyom Chen"/><br /><sub><b>Artyom Chen</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=archhhh" title="Code">💻</a></td>
     <td align="center"><a href="https://arshadkazmi42.github.io/"><img src="https://avatars3.githubusercontent.com/u/4654382?v=4" width="100px;" alt="Arshad Kazmi"/><br /><sub><b>Arshad Kazmi</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=arshadkazmi42" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/aviralwal"><img src="https://avatars2.githubusercontent.com/u/9414334?v=4" width="100px;" alt="Aviral Agrawal"/><br /><sub><b>Aviral Agrawal</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=aviralwal" title="Code">💻</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/awjh-ibm"><img src="https://avatars2.githubusercontent.com/u/31732124?v=4" width="100px;" alt="Andrew Hurt"/><br /><sub><b>Andrew Hurt</b></sub></a><br /><a href="https://github.com/accordproject/techdocs/commits?author=awjh-ibm" title="Code">💻</a></td>
   </tr>
 </table>
 
