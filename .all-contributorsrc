@@ -171,6 +171,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "peterhunn",
+      "name": "Peter Hunn",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9304034?v=4",
+      "profile": "http://www.clause.io",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
