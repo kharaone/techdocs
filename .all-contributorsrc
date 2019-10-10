@@ -225,6 +225,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "ODOWDAIBM",
+      "name": "Anthony O'Dowd",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8831317?v=4",
+      "profile": "http://www.ibm.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7
